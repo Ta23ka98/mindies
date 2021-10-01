@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>175111310626-0lb0m2g4mp533ogm107ru2smpusnc7is.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.175111310626-0lb0m2g4mp533ogm107ru2smpusnc7is</string>
+	<key>API_KEY</key>
+	<string>AIzaSyDqUZ9m0Rw01EztPVto09IV4T2PP_jyiFc</string>
+	<key>GCM_SENDER_ID</key>
+	<string>175111310626</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.example.mindies</string>
+	<key>PROJECT_ID</key>
+	<string>mindies</string>
+	<key>STORAGE_BUCKET</key>
+	<string>mindies.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:175111310626:ios:27b244ee83dd24e201697b</string>
+</dict>
+</plist>
